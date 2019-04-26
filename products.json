@@ -1,0 +1,130 @@
+{
+  "featured": [
+    {
+      "id": "ross",
+      "intro": "An online privacy compliance and enterprise discovery platform"
+    },
+    {
+      "id": "firm-sense",
+      "intro": "The law firm client listening specialists"
+    },
+    {
+      "id": "doxly",
+      "intro": "TRANSACTIONS. WORKFLOWS. SIMPLIFIED."
+    }
+  ],
+  "products": [
+    {
+      "id": "apperio",
+      "name": "Apperio",
+      "title": "Automated Legal Spend Management & Analytics",
+      "img-src": "https://s3.amazonaws.com/nextlawnetwork/docs/products/apperio.png",
+      "description": "Apperio’s smart-analytics dashboard streamlines matter management, tracks legal spend and provides real time transparency into legal fees. Its central communications hub facilitates strong, cost-effective client relationships to  minimize invoice surprises and fee write-offs. ",
+      "categories": ["Fee Transparency","Matter Management"],
+      "info-link": "https://www.apperio.com/"
+    },
+    {
+      "id": "clause",
+      "name": "Clause",
+      "title": "Connected Contracting” or, if room, “Integrate your contracts with your software tools for smarter management",
+      "img-src": "https://s3.amazonaws.com/nextlawnetwork/docs/products/clause.png",
+      "description": "Clause is an early-stage startup building a platform to execute, manage and update contracts using real time enterprise data through integration with the Internet of Things (IoT) and leveraging blockchain. Their cutting-edge infrastructure will represent the next generation of automated and data-integrated contracts for enterprise. Their public beta working groups are currently focused on supply chain, manufacturing, financial services, intellectual property, dispute resolution, venture and token sales, and technology",
+      "categories": ["Contract Automation"],
+      "info-link": "https://clause.io/"
+    },
+    {
+      "id": "libryo",
+      "name": "Libryo",
+      "title": "Know all your laws and regulations",
+      "img-src": "https://s3.amazonaws.com/nextlawnetwork/docs/products/libry.png",
+      "description": "Libryo’s place-based software enables users to understand legal obligations in any jurisdiction, overcoming global regulatory complexity and lowering operational and legal risk. Libryo is currently focused on environmental health and safety,  social and corporate governance, and financial services. New areas of law are being added.",
+      "categories": ["Compliance and Risk Management"],
+      "info-link": "https://libryo.com/"
+    },
+    {
+      "id": "profinda",
+      "name": "ProFinda",
+      "title": "Intelligent Team & Work Management",
+      "img-src": "https://s3.amazonaws.com/nextlawnetwork/docs/products/profinda.png",
+      "description": "ProFinda is a dynamic talent optimization platform that uses AI and matching technology to map all skills, knowledge, connections and expertise available across a company, providing a single view of an organization’s talent pool to surface expertise, create high performing teams and match subject matter experts to projects and clients in real time. It connects the right people to the right work at the right time to unlock the full potential of the complete workforce.",
+      "categories": ["Expertise Finder"],
+      "info-link": "https://www.profinda.com/"
+    },
+    {
+      "id": "qualmet",
+      "name": "Qualmet",
+      "title": "Increase the business value of your outside counsel",
+      "img-src": "https://s3.amazonaws.com/nextlawnetwork/docs/products/qualmet.png",
+      "description": "Qualmet is the legal industry’s first objective, systematic and qualitative solution to align goals and expectations between in-house and outside counsel, enabling collaboration, increased value of legal services and client satisfaction. Legal departments can assess outside counsel from the firm down to the individual level.",
+      "categories": ["Client Listening", "Quality and Performance Management"],
+      "info-link": "http://www.qualmetlegal.com/"
+    },
+    {
+      "id": "ross",
+      "new": true,
+      "name": "Ross",
+      "title": "Exceed Expectations. Legal research powered by AI for U.S. law",
+      "img-src": "https://s3.amazonaws.com/nextlawnetwork/docs/products/ross.png",
+      "description": "ROSS streamlines the legal research process by enabling lawyers to ask their questions in natural language and receive pinpoint passages of law answering their questions; ROSS combs through millions of pages of American jurisprudence, statutes and regulations to instantly return highly relevant results and ‘learn’ from each query to further refine results, saving attorney time and client money while unearthing case law that would have gone unseen even after hours of research on traditional legal research platforms.",
+      "categories": ["Expert Legal Research"],
+      "info-link": "https://www.rossintelligence.com/"
+    },
+    {
+      "id": "firm-sense",
+      "new": true,
+      "name": "Firm Sense",
+      "title": "The law firm client listening specialists",
+      "img-src": "https://s3.amazonaws.com/nextlawnetwork/docs/products/FS+logo+CL+strapline+-+SS+-+06.10.18.jpg",
+      "description": "Firm Sense is a specialist consultancy founded by Slaughter and May trained, ex senior in-house lawyer and qualified business coach, Sally Dyson, to provide client relationship evaluation and advice to law firms.",
+      "categories": ["Client Listening"],
+      "info-link": "http://www.firmsense.co.uk"
+    },
+    {
+      "id": "doxly",
+      "name": "DOXLY",
+      "title": "A Nextlaw Ventures Portfolio Company",
+      "img-src": "https://s3.amazonaws.com/nextlawnetwork/docs/products/doxly-logo.png",
+      "description": "Doxly’s secure transaction management platform brings control, peace of mind, and velocity to legal transactions by centralizing checklists & reporting, tracking documents, tasks & versions and automating the entire signature management process.",
+      "categories": [
+        "Automated Diligence",
+        "Matter Management",
+        "Transaction Management"
+      ],
+      "info-link": "https://www.doxly.com/nextlaw"
+    },
+    {
+      "id": "file-facets",
+      "name": "FileFacets",
+      "title": "A Nextlaw Ventures Portfolio Company",
+      "img-src": "https://s3.amazonaws.com/nextlawnetwork/docs/products/u63.png",
+      "categories": [
+        "Automated Diligence",
+        "Compliance and Risk Management",
+        "Data Privacy"
+      ],
+      "description": "FileFacets is an online privacy compliance and enterprise discovery platform that makes it easy for businesses to locate, process and move unstructured content from multiple sources across the enterprise. FileFacets’ Enterprise Discovery platform can be used as a revenue generation tool by law firms during the data collection phase in due diligence and to mitigate risk by shortening the time to deal close. FileFacets’ Privacy Compliance platform locates and processes Personally Identifiable Information (PII) and sensitive corporate data, ensuring sensitive information is handled appropriately and businesses are compliant with data protection laws (GDPR in the EU).\n\nThey have created a Content Analytics Dashboard for Nextlaw Network members that is available free of charge. The dashboard allows you to demo the advanced search and analytics capabilities of the FileFacets platform within your own environment and explore how you can leverage it as an internal tool or as a new revenue stream for your law firm – quickly expediting and enhancing your firm’s capabilities at early data assessment, mergers and acquisitions, as well as privacy compliance.",
+      "info-link": "http://www.filefacets.com/nextlawnetwork"
+    },
+    {
+      "id": "hire-an-esquire",
+      "name": "Hire an Esquire",
+      "title": "The modern approach to legal staffing",
+      "img-src": "https://s3.amazonaws.com/nextlawnetwork/docs/products/hire-an-esquire.png",
+      "description": "Hire an Esquire is a sophisticated, curated, on demand network of 6,000+ attorneys that support law firms with either permanent, temp or temp-to- perm needs.\n\nAs most of you know, being able to quickly and easily shift fixed costs to variable costs gives you unprecedented business control and flexibility. While this is a US offer, members seeking scalable staffing solutions in other jurisdictions are welcome to contact [info@hireanesquire.com](mailto:info@hireanesquire.com)  and they will do their best to facilitate your needs either directly or indirectly via a referral.\n\nHire an Esquire is offering Nextlaw Network members a 10% discount for these services through September 30, 2017.",
+      "categories": [
+        "Legal Staffing"
+      ],
+      "info-link": "https://app.hireanesquire.com/nextlawnetwork/"
+    },
+    {
+      "id": "dentons-security",
+      "name": "Dentons Security Practice Group",
+      "title": "",
+      "img-src": "https://s3.amazonaws.com/nextlawnetwork/docs/products/dentons.png",
+      "description": "Dentons Security Practice Group is a new venture that will specialize in advanced business intelligence and cybersecurity services with a special focus on law firms.  As part of its introduction, the Practice Group is offering special content for no charge with no strings attached.\n\nStart with the Best Practice Guide (“BPG”) that provides an overview of the security issues facing law firms today.\n\n* BPG Law Firm Security <a href='https://s3.amazonaws.com/nextlawnetwork/docs/products/060917_BPG+Law+Firm+Security.pdf' target='_blank'>(click to download)</a>\n\nReview your firm's security readiness using the Best Practice Guide, and read the Employee Bulletin (“EB”) to help highlight a few key steps that all firm staff can take to make your firm and client-confidential information more secure.\n\n* BPG Security Self-Assessment<a href='https://s3.amazonaws.com/nextlawnetwork/docs/products/060917_BPG+Security+Self+Assessment.pdf' target='_blank'>(click to download)</a>\n\n* EB Law Firm Security <a href='https://s3.amazonaws.com/nextlawnetwork/docs/products/061017_EB+Law+Firm+Security.pdf' target='_blank'>(click to download)</a>\n\nInsider threats are explained in the following Best Practice Guide, including an overview of actions that both firm leadership and employees can take to prevent theft of proprietary and confidential information. Additionally, the companion Employee Bulletin can help you quickly identify just a few steps you can take today to reduce risks in this area.\n\n* BPG Insider Threats <a href='https://s3.amazonaws.com/nextlawnetwork/docs/products/060917_BPG+Insider+Threat.pdf' target='_blank'>(click to download)</a>\n\n* EB Insider Threat <a href='https://s3.amazonaws.com/nextlawnetwork/docs/products/061017_EB+Insider+Threat.pdf' target='_blank'>(click to download)</a>\n\nFor more information, please contact Karl Hopkins at [karl.hopkins@dentons.com](mailto:karl.hopkins@dentons.com)",
+      "categories": [
+        "Security"
+      ]
+    }
+  ]
+}
